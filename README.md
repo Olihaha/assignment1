@@ -1,8 +1,8 @@
-# Assignement 1 -  Extracting linguistic features using spaCy
+# Assignmnt 1 -  Extracting linguistic features using spaCy
 
 ---
 # Introduction and contents
-This repository contains a Python script named "get_features.py" designed for information extraction tasks such as part-of-speech (PoS) tagging and named-entity recognition (NER). The script calculates the relative frequency of Nouns, Verbs, Adjectives, and Adverbs per 10,000 words, as well as the total count of unique persons (PER), locations (LOC), and organizations (ORG). The extracted information
+This repository contains a Python script named "get_features.py" designed for information extraction tasks such as part-of-speech (PoS) tagging and named-entity recognition (NER). The script calculates the relative frequency of Nouns, Verbs, Adjectives, and Adverbs per 10,000 words, as well as the total count of unique persons (PER), locations (LOC), and organizations (ORG). 
 
 ## data
 The project utilizes the “Uppsala Student English Corpus” which consists of 1,489 essays composed by 440 Swedish university students studying English at varying levels. The essays are organized into 14 sub-folders within the "USEcorpus" folder, with each sub-folder representing different terms, styles, and subjects of the essays.
